@@ -12,6 +12,7 @@ Name: Display Recorder
 Author: russian5hit <thisiisshit@bk.ru> 
 
 Package: com.ccool-beta.displayrecorder1
+Version: 1.3.11
 Maintainer: russian5hit <thisiisshit@bk.ru>
 Depends: firmware (>5.0), mobilesubstrate, 
 Architecture: iphoneos-arm
