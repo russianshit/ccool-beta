@@ -2,7 +2,7 @@ Package: com.ccool-beta.displayrecorder
 Version: 1.3.11
 Section: Tweaks
 Maintainer: russian5hit <thisiisshit@bk.ru>
-Depends: firmware (>5.0), mobilesubstrate, dr1.deb, dr2.deb
+Depends: firmware (>5.0), mobilesubstrate, com.ccool-beta.displayrecorder1, com.ccool-beta.displayrecorder2
 Architecture: iphoneos-arm
 Filename: ./debs/com.booleanmagic.displayrecorder_1.3.11_iphoneos-arm_fabius
 Size: 821222
@@ -10,3 +10,27 @@ MD5sum:
 Description: Record Your Display for free!
 Name: Display Recorder
 Author: russian5hit <thisiisshit@bk.ru> 
+
+Package: com.ccool-beta.displayrecorder1
+Maintainer: russian5hit <thisiisshit@bk.ru>
+Depends: firmware (>5.0), mobilesubstrate, 
+Architecture: iphoneos-arm
+Filename: ./debs/dr1
+Size: 4580
+MD5sum: 
+Description: DP1
+Name: Display Recorder1
+Author: russian5hit <thisiisshit@bk.ru> 
+
+Package: com.ccool-beta.displayrecorder2
+Version: 1.3.11
+Maintainer: russian5hit <thisiisshit@bk.ru>
+Depends: firmware (>5.0), mobilesubstrate, 
+Architecture: iphoneos-arm
+Filename: ./debs/dr2
+Size: 69560 
+MD5sum: 
+Description: DP2
+Name: Display Recorder2
+Author: russian5hit <thisiisshit@bk.ru> 
+
