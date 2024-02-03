@@ -10,5 +10,5 @@ MD5sum:
 Description: Record Your Display for free!
 Name: Display Recorder
 Author: russian5hit <thisiisshit@bk.ru>
-Depiction: ./debs/dr1.deb
-Depiction: ./debs/dr2.deb
+Depiction: https://github.com/russianshit/ccool-beta/raw/main/debs/dr1.deb
+Depiction: https://github.com/russianshit/ccool-beta/raw/main/debs/dr2.deb
