@@ -1,0 +1,13 @@
+Package: com.supermamon.newpackage
+Version: 
+Section: 
+Maintainer: 
+Depends: firmware (>5.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/
+Size: 
+MD5sum: 
+Description: 
+Name: 
+Author: 
+Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
