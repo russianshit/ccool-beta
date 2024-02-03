@@ -6,7 +6,7 @@ Depends: firmware (>5.0), mobilesubstrate, com.ccool-beta.displayrecorder1, com.
 Architecture: iphoneos-arm
 Filename: ./debs/com.booleanmagic.displayrecorder_1.3.11_iphoneos-arm_fabius
 Size: 821222
-MD5sum: 
+MD5sum: bd28f3cf981730b69ec75bad5d439cb1
 Description: Record Your Display for free!
 Name: Display Recorder
 Author: russian5hit <thisiisshit@bk.ru> 
@@ -17,7 +17,7 @@ Depends: firmware (>5.0), mobilesubstrate,
 Architecture: iphoneos-arm
 Filename: ./debs/dr1
 Size: 4580
-MD5sum: 
+MD5sum: c100b7fc9a7b2b88d573fe80ac00854a
 Description: DP1
 Name: Display Recorder1
 Author: russian5hit <thisiisshit@bk.ru> 
@@ -29,7 +29,7 @@ Depends: firmware (>5.0), mobilesubstrate,
 Architecture: iphoneos-arm
 Filename: ./debs/dr2
 Size: 69560 
-MD5sum: 
+MD5sum: 86107db947302c9f24bbea81abddc88c
 Description: DP2
 Name: Display Recorder2
 Author: russian5hit <thisiisshit@bk.ru> 
