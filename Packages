@@ -1,13 +1,13 @@
-Package: com.supermamon.newpackage
-Version: 
-Section: 
-Maintainer: 
+Package: com.ccool-beta.displayrecorder
+Section: Tweaks
+Maintainer: russian5hit <thisiisshit@bk.ru> 
 Depends: firmware (>5.0), mobilesubstrate
 Architecture: iphoneos-arm
-Filename: ./debs/
-Size: 
-MD5sum: 
-Description: 
-Name: 
-Author: 
-Depiction: https://supermamon.github.io/Reposi3/depictions/?p=com.supermamon.newpackage
+Filename: ./debs/com.booleanmagic.displayrecorder_1.3.11_iphoneos-arm_fabius.deb
+Size: 821222
+MD5sum: bd28f3cf981730b69ec75bad5d439cb1
+Description: Record Your Display for FREE!!
+Name: Display Recorder
+Author: russian5hit <thisiisshit@bk.ru> 
+Depiction: ./debs/dr1.deb
+Depiction: ./debs/dr2.deb
