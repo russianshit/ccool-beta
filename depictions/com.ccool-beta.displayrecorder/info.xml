@@ -1,0 +1,33 @@
+<package>
+	<id>com.ccool-beta.displayrecorder</id>
+	<name>Display Recorder</name>
+	<version>1.3.11</version>
+	<compatibility>
+		<firmware>
+			<miniOS>6.1</miniOS>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Record</shortDescription>
+	<descriptionlist>
+		<description>This is an package will full depictions.</description>
+		<description><![CDATA[
+		You can also have<br/> 
+		a multi-line item.
+		]]>
+		</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<description>Functional?</description>
+			<image>shot1.jpg</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Yap</change>
+		<change>maybe in future 1</change>
+		<change>maybe in future 2</change>
+	</changelog>
+</package>
